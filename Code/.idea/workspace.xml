@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="609e5181-52e1-473c-8c44-0f9964c72406" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iPaBBokvxc7vK2eVsdfbYYTs6b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.StreamingKmeans">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="kmeans.fun.Main" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kmeans.fun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingKmeans" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="kmeans.fun.StreamingKmeans" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kmeans.fun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streamingkmeans" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="kmeans.fun.Streamingkmeans" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kmeans.fun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMeansSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kmeans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kmeans" />
+      <option name="MAIN_CLASS_NAME" value="kmeans.KMeansSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="KMeans" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="KMeans" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamingKmeans" />
+        <item itemvalue="Application.Streamingkmeans" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.KMeansSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="code" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="code [file:/C:/Users/samfs/Documents/Mestrado-UFSC/Computação%20Paralela/Trabalho-A1/Code/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="code-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3842075890" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Projetos-Samuel/WebStream" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/Capstone-Project/observatory" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/Capstone-Project/teste/observatory" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/FunctionDesign-Curso2/calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/FunctionDesign-Curso2/codecs" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/FunctionDesign-Curso2/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/FunctionDesign-Curso2/quickcheck" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/FunctionDesign-Curso2/streams" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/ParallelProgram-Curso3/barneshut" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/ParallelProgram-Curso3/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/ParallelProgram-Curso3/kmeans" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/ParallelProgram-Curso3/reductions" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/ParallelProgram-Curso3/scalashop" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/PrincipleScala-Curso1/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/PrincipleScala-Curso1/forcomp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/PrincipleScala-Curso1/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/PrincipleScala-Curso1/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/PrincipleScala-Curso1/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/PrincipleScala-Curso1/recfun" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/Spark-Curso4/Week1/wikipedia" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/Spark-Curso4/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/Spark-Curso4/stackoverflow" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/Spark-Curso4/timeusage" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Coursera-Specialization/Spark-Curso4/wikipedia" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Part1 - Udemy/Flight01" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Part1 - Udemy/Module1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Part1 - Udemy/Module1/module1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Scala/Part1 - Udemy/exercises-Part1-applied" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="609e5181-52e1-473c-8c44-0f9964c72406" name="Default Changelist" comment="" />
+      <created>1601811542841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601811542841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="178" key="#Project_Structure" timestamp="1601813886948">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="178" key="#Project_Structure/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601813886948" />
+    <state x="-1230" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1601817794992">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601817794992" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1601828567353">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601828567353" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1601828567353">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601828567353" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1601828567353">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601828567353" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1601828567353">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601828567353" />
+  </component>
+</project>
