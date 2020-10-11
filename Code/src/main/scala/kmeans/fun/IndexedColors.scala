@@ -1,6 +1,8 @@
 package kmeans
 package fun
 
+import org.scalameter.{Key, Warmer, config}
+
 import scala.collection.Seq
 import scala.collection.parallel.ParSeq
 import scala.collection.parallel.CollectionConverters._
@@ -27,12 +29,34 @@ class IndexedColorFilter(initialImage: Img,
   val points = imageToPoints(initialImage)
   val means = initializeIndex(colorCount, points)
 
+  val parPoints = points.par
+  val parMeans = means.par
 
   private val newMeans = kMeans(points, means, 0.01)
+  private val parKMeans = kMeans(parPoints, parMeans, 0.01)
 
+  val standardConfig = config(
+    Key.exec.minWarmupRuns -> 20,
+    Key.exec.maxWarmupRuns -> 40,
+    Key.exec.benchRuns -> 25,
+    Key.verbose -> true
+  ) withWarmer(new Warmer.Default)
 
   def getStatus() = s"Converged after $steps steps."
-  def getResult() = indexedImage(initialImage, newMeans)
+  def getSeqResult() = {
+    val seqtime = standardConfig measure {
+      indexedImage(initialImage, newMeans)
+    }
+    println(s"sequencial time: $seqtime")
+    indexedImage(initialImage, newMeans)
+  }
+  def getParResult() = {
+    val partime = standardConfig measure {
+      indexedImage(initialImage, parKMeans)
+    }
+    println(s"parallel time: $partime")
+    indexedImage(initialImage, parKMeans)
+  }
 
   private def imageToPoints(img: Img): Seq[Point] =
     for (x <- 0 until img.width; y <- 0 until img.height) yield {

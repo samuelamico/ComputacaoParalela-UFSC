@@ -20,11 +20,15 @@ object Main extends App{
 
   val img = imageClass.image
 
-  val result = new IndexedColorFilter(img,8,RandomSampling,ConvergedAfterNSteps(10))
+  val result = new IndexedColorFilter(img,62,RandomSampling,ConvergedAfterNSteps(100))
 
-  println(result.getStatus())
-  val img_result = result.getResult()
+  //println(result.getStatus())
+  val img_result = result.getParResult()
   saveFile("result.png",img_result)
+
+
+
+
 
 
 }

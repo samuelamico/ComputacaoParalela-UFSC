@@ -1,11 +1,13 @@
 package kmeans
 
+import kmeans.fun.{ConvergedAfterNSteps, IndexedColorFilter, PhotoCanvas, RandomSampling}
+import org.scalameter._
+
 import scala.annotation.tailrec
-import scala.collection.{Map, Seq, mutable}
 import scala.collection.parallel.CollectionConverters._
 import scala.collection.parallel.{ParMap, ParSeq}
+import scala.collection.{Map, Seq, mutable}
 import scala.util.Random
-import org.scalameter._
 
 class KMeans extends KMeansInterface {
 
@@ -131,6 +133,13 @@ class Point(val x: Double, val y: Double, val z: Double) {
 
 object KMeansRunner {
 
+  /// Meus testes
+
+
+
+  //// ----------------------------
+
+
   val standardConfig = config(
     Key.exec.minWarmupRuns -> 20,
     Key.exec.maxWarmupRuns -> 40,
@@ -140,19 +149,25 @@ object KMeansRunner {
 
   def main(args: Array[String]): Unit = {
     val kMeans = new KMeans()
-
-    val numPoints = 500000
     val eta = 0.01
-    val k = 32
-    val points = kMeans.generatePoints(k, numPoints)
-    val means = kMeans.initializeMeans(k, points)
+    val k = 62
+    // Importar a classe de  imagem que estou testando
+    val imageClass = new PhotoCanvas
+
+    val img = imageClass.image
+
+    val result = new IndexedColorFilter(img,k,RandomSampling,ConvergedAfterNSteps(100))
+    val seqPoints = result.points
+    val seqMeans = result.means
+
+    //// Metricas ::::::::
 
     val seqtime = standardConfig measure {
-      kMeans.kMeans(points, means, eta)
+      kMeans.kMeans(seqPoints, seqMeans, eta)
     }
 
-    val parPoints = points.par
-    val parMeans = means.par
+    val parPoints = seqPoints.par
+    val parMeans = seqMeans.par
 
     val partime = standardConfig measure {
       kMeans.kMeans(parPoints, parMeans, eta)
