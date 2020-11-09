@@ -2,59 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="609e5181-52e1-473c-8c44-0f9964c72406" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/code-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/code-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$04940144019840bc6e4e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$04940144019840bc6e4e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$04940144019840bc6e4e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0f470fbef8d8c61f4527$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0f470fbef8d8c61f4527.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0f470fbef8d8c61f4527.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$18d644b50367aaa9610e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$18d644b50367aaa9610e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$18d644b50367aaa9610e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76440e7ba6fdc13590f8$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76440e7ba6fdc13590f8.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76440e7ba6fdc13590f8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91cae6d1372bc3d107c4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91cae6d1372bc3d107c4.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91cae6d1372bc3d107c4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.png" beforeDir="false" afterPath="$PROJECT_DIR$/result.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/kmeans/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/Main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/kmeans/fun/PhotoCanvas.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/fun/PhotoCanvas.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/META-INF/code.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/KMeans.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/KMeans.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/KMeansRunner$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/KMeansRunner$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedAfterMeansAreStill$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedAfterMeansAreStill$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedAfterMeansAreStill.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedAfterMeansAreStill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedAfterNSteps$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedAfterNSteps$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedAfterNSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedAfterNSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedWhenSNRAbove$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedWhenSNRAbove$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedWhenSNRAbove.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/ConvergedWhenSNRAbove.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/IndexedColorFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/IndexedColorFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/kmeans/StreamingKmeans.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/StreamingKmeans.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/Main$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/PhotoCanvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/PhotoCanvas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/RandomSampling$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/RandomSampling$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/StreamingKmeans$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/StreamingKmeans$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/StreamingKmeans$delayedInit$body.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/StreamingKmeans.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/StreamingKmeans.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/UniformChoice$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/UniformChoice$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/UniformSampling$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/kmeans/fun/UniformSampling$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +47,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.KMeansRunner">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="KMeansRunner" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="kmeans.KMeansRunner" />
       <module name="code" />
@@ -207,8 +164,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KMeansRunner" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.KMeansRunner" />
         <item itemvalue="Application.StreamingKmeans" />
         <item itemvalue="Application.Streamingkmeans" />
         <item itemvalue="JUnit.KMeansSuite" />
@@ -242,6 +199,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3204516779685" />
         <entry key="$PROJECT_DIR$/build.sbt" value="3842075890" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
       </map>
@@ -302,25 +260,34 @@
     </state>
     <state x="-1230" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601817794992" />
     <state x="552" y="218" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602448275199" />
-    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1602449569363">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1476" height="272" key="GridCell.Tab.0.bottom" timestamp="1603545075163">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601828567353" />
+    <state width="1476" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603545075163" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602963896863" />
     <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602449569363" />
-    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1602449569362">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1476" height="272" key="GridCell.Tab.0.center" timestamp="1603545075163">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601828567353" />
+    <state width="1476" height="272" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603545075163" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602963896863" />
     <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602449569362" />
-    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1602449569362">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1476" height="272" key="GridCell.Tab.0.left" timestamp="1603545075163">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601828567353" />
+    <state width="1476" height="272" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603545075163" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602963896863" />
     <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602449569362" />
-    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1602449569363">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1476" height="272" key="GridCell.Tab.0.right" timestamp="1603545075163">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601828567353" />
+    <state width="1476" height="272" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603545075163" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602963896863" />
     <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602449569363" />
+    <state x="-1339" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1604837386099">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1339" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604837386099" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1603066644186" />
   </component>
 </project>
